@@ -1,6 +1,7 @@
 # Info_log
 Trabalhos e atividades da aula de Informática 
 ## Atividade 1: Apresentação em equipes no Canva
+![WhatsApp Image 2025-09-25 at 22 07 06](https://github.com/user-attachments/assets/84a928f5-4b5c-4017-8552-25ed1e5d6f7e)
 
 ## Atividade 2: Dados abertos em excel
 <img width="1880" height="912" alt="image" src="https://github.com/user-attachments/assets/6333a8e4-13b1-4241-b0c8-40c783685a2b" />
