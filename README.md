@@ -9,3 +9,6 @@ Para a pergunta 1, utilizamos a fórmula CONT.SES fazendo a contagem de cada est
 
 ## Atividade 3: Tabela e Dados NCM
 <img width="1101" height="620" alt="Captura de tela 2025-10-03 192651" src="https://github.com/user-attachments/assets/feed4849-4493-41b7-9128-bee3a194f6df" />
+
+## Atividade 4: Power Bi
+<img width="1878" height="993" alt="Captura de tela 2025-10-17 201958" src="https://github.com/user-attachments/assets/67fcd78e-c4a4-4b5f-a50d-e33a456edd3d" />
