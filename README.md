@@ -1,5 +1,5 @@
 # Info_log
-Trabalhos e atividades da aula de Informática 
+### Trabalhos e atividades da aula de Informática 
 
 ---
 
