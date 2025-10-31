@@ -20,6 +20,8 @@
 ## Atividade 3: Tabela e Dados NCM
 <img width="1101" height="620" alt="Captura de tela 2025-10-03 192651" src="https://github.com/user-attachments/assets/feed4849-4493-41b7-9128-bee3a194f6df" />
 
+* A atividade consistiu na extração dos códigos NCM e na aplicação de filtros em uma tabela dinâmica no Excel, possibilitando a personalização e a análise de informações específicas.
+
 ---
 
 ## Atividade 4: Power Bi
