@@ -35,3 +35,15 @@
 <img width="1917" height="1024" alt="Captura de tela 2025-10-30 221005" src="https://github.com/user-attachments/assets/3feddf32-cf67-4aa4-b11a-90d2da360e59" />
 
 * Nesta atividade, extraímos os dados de exportação do COMEX STAT de 2025 para fazer a interpretação utilizando mapas e gráficos no PowerBi.
+
+---
+
+## Análise de Regressão Linear – Vendas de Sorvete em Função da Temperatura
+<img width="1474" height="988" alt="Captura de tela 2025-10-31 201845" src="https://github.com/user-attachments/assets/fbcc3071-99a1-4afc-b7da-aecaca8c1834" />
+<img width="1242" height="897" alt="Captura de tela 2025-10-31 201906" src="https://github.com/user-attachments/assets/ab6f03b1-fb7e-4016-82ab-c86956026610" />
+
+* Nesta atividade, foi realizada uma análise de regressão linear para estudar a relação entre as vendas de sorvete (revenue) e a temperatura. Os dados foram obtidos no Kaggle e inicialmente abertos no Excel, onde foi criado um gráfico de dispersão. Em seguida, adicionou-se uma linha de tendência linear, exibindo também a equação da reta, representada pela função 
+𝑦 = 𝑎 𝑥 + 𝑏
+y=ax+b, em que a é o coeficiente angular e b o coeficiente linear.
+Posteriormente, a análise foi reproduzida no Google Colab, utilizando Inteligência Artificial para gerar o código em Python. O arquivo IceCream.csv foi lido em um DataFrame do Pandas, e a partir dele foi criado um gráfico de dispersão da temperatura pela receita. Por fim, foi desenvolvido um modelo de regressão linear para estimar as vendas de sorvete com base na variação da temperatura.
+
