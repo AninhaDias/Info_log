@@ -15,4 +15,4 @@ Para a pergunta 1, utilizamos a fórmula CONT.SES fazendo a contagem de cada est
 
 ## Atividade 5: Interpretação de Dados COMEX em Power Bi
 <img width="1917" height="1024" alt="Captura de tela 2025-10-30 221005" src="https://github.com/user-attachments/assets/3feddf32-cf67-4aa4-b11a-90d2da360e59" />
-
+Nesta atividade, extraímos os dados de exportação do COMEX STAT de 2025 para fazer a interpretação utilizando mapas e gráficos no PowerBi.
