@@ -1,17 +1,28 @@
 # Info_log
 Trabalhos e atividades da aula de Informática 
+
+---
+
 ## Atividade 1: Apresentação em equipes no Canva
 ![WhatsApp Image 2025-09-25 at 22 07 06](https://github.com/user-attachments/assets/84a928f5-4b5c-4017-8552-25ed1e5d6f7e)
+A atividade teve como objetivo promover a integração da turma por meio de uma apresentação interativa no Kahoot. Cada participante elaborou perguntas com curiosidades pessoais, e os colegas tentaram adivinhar as respostas, tornando o momento descontraído e dinâmico.
+
+---
 
 ## Atividade 2: Dados abertos em excel
 <img width="1880" height="912" alt="image" src="https://github.com/user-attachments/assets/6333a8e4-13b1-4241-b0c8-40c783685a2b" />
 Para a pergunta 1, utilizamos a fórmula CONT.SES fazendo a contagem de cada estabelecimento classificado como filial, da mesma forma para a contagem dos bares em Sâo Paulo, estabelecimentos de empresário individual e na contagem dos restaurantes de especialidade brasileira, respondendo às perguntas 2,4 e 5, respectivamente. Para a pergunta 3, utilizamos o PROCV associando o CNPJ ao porte indicado.
 
+---
+
 ## Atividade 3: Tabela e Dados NCM
 <img width="1101" height="620" alt="Captura de tela 2025-10-03 192651" src="https://github.com/user-attachments/assets/feed4849-4493-41b7-9128-bee3a194f6df" />
 
+---
+
 ## Atividade 4: Power Bi
 <img width="1878" height="993" alt="Captura de tela 2025-10-17 201958" src="https://github.com/user-attachments/assets/67fcd78e-c4a4-4b5f-a50d-e33a456edd3d" />
+Nesta atividade, realizamos a extração dos dados de exportação referentes ao ano de 2025, obtidos do COMEX STAT, com o objetivo de interpretá-los por meio de visualizações em mapas e gráficos no Power BI.
 
 ---
 
