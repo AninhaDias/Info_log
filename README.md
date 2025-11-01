@@ -7,6 +7,7 @@
 ![WhatsApp Image 2025-09-25 at 22 07 06](https://github.com/user-attachments/assets/84a928f5-4b5c-4017-8552-25ed1e5d6f7e)
 
 <p align="justify">
+  
 * A atividade teve como objetivo promover a integração da turma por meio de uma apresentação interativa no Kahoot. Cada participante elaborou perguntas com curiosidades pessoais, e os colegas tentaram adivinhar as respostas, tornando o momento descontraído e dinâmico.
 
 ---
@@ -15,6 +16,7 @@
 <img width="1880" height="912" alt="image" src="https://github.com/user-attachments/assets/6333a8e4-13b1-4241-b0c8-40c783685a2b" />
 
 <p align="justify">
+  
 * Para a pergunta 1, utilizamos a fórmula CONT.SES fazendo a contagem de cada estabelecimento classificado como filial, da mesma forma para a contagem dos bares em Sâo Paulo, estabelecimentos de empresário individual e na contagem dos restaurantes de especialidade brasileira, respondendo às perguntas 2,4 e 5, respectivamente. Para a pergunta 3, utilizamos o PROCV associando o CNPJ ao porte indicado.
 
 ---
@@ -23,6 +25,7 @@
 <img width="1101" height="620" alt="Captura de tela 2025-10-03 192651" src="https://github.com/user-attachments/assets/feed4849-4493-41b7-9128-bee3a194f6df" />
 
 <p align="justify">
+  
 * A atividade consistiu na extração dos códigos NCM e na aplicação de filtros em uma tabela dinâmica no Excel, possibilitando a personalização e a análise de informações específicas.
 
 ---
@@ -31,6 +34,7 @@
 <img width="1878" height="993" alt="Captura de tela 2025-10-17 201958" src="https://github.com/user-attachments/assets/67fcd78e-c4a4-4b5f-a50d-e33a456edd3d" />
 
 <p align="justify">
+  
 * Nesta atividade, realizamos a extração dos dados de exportação referentes ao ano de 2025, obtidos do COMEX STAT, com o objetivo de interpretá-los por meio de visualizações em mapas e gráficos no Power BI.
 
 ---
@@ -39,6 +43,7 @@
 <img width="1917" height="1024" alt="Captura de tela 2025-10-30 221005" src="https://github.com/user-attachments/assets/3feddf32-cf67-4aa4-b11a-90d2da360e59" />
 
 <p align="justify">
+  
 * Nesta atividade, extraímos os dados de exportação do COMEX STAT de 2025 para fazer a interpretação utilizando mapas e gráficos no PowerBi.
 
 ---
@@ -48,6 +53,7 @@
 <img width="1242" height="897" alt="Captura de tela 2025-10-31 201906" src="https://github.com/user-attachments/assets/ab6f03b1-fb7e-4016-82ab-c86956026610" />
 
 <p align="justify">
+  
 * Nesta atividade, foi realizada uma análise de regressão linear para estudar a relação entre as vendas de sorvete (revenue) e a temperatura. Os dados foram obtidos no Kaggle e inicialmente abertos no Excel, onde foi criado um gráfico de dispersão. Em seguida, adicionou-se uma linha de tendência linear, exibindo também a equação da reta, representada pela função 
 𝑦 = 𝑎 𝑥 + 𝑏
 y=ax+b, em que a é o coeficiente angular e b o coeficiente linear.
