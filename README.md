@@ -38,7 +38,7 @@
 
 ---
 
-## Análise de Regressão Linear – Vendas de Sorvete em Função da Temperatura
+## Atividade 6 Análise de Regressão Linear – Vendas de Sorvete em Função da Temperatura
 <img width="1474" height="988" alt="Captura de tela 2025-10-31 201845" src="https://github.com/user-attachments/assets/fbcc3071-99a1-4afc-b7da-aecaca8c1834" />
 <img width="1242" height="897" alt="Captura de tela 2025-10-31 201906" src="https://github.com/user-attachments/assets/ab6f03b1-fb7e-4016-82ab-c86956026610" />
 
@@ -47,3 +47,6 @@
 y=ax+b, em que a é o coeficiente angular e b o coeficiente linear.
 Posteriormente, a análise foi reproduzida no Google Colab, utilizando Inteligência Artificial para gerar o código em Python. O arquivo IceCream.csv foi lido em um DataFrame do Pandas, e a partir dele foi criado um gráfico de dispersão da temperatura pela receita. Por fim, foi desenvolvido um modelo de regressão linear para estimar as vendas de sorvete com base na variação da temperatura.
 
+## Atividade 7 Análise de Regressão Linear – Salário
+<img width="1407" height="957" alt="Captura de tela 2025-11-06 222616" src="https://github.com/user-attachments/assets/09ef2045-1b70-4cd4-8fb8-c82b94171779" />
+<img width="1602" height="943" alt="Captura de tela 2025-11-06 222559" src="https://github.com/user-attachments/assets/d4c98362-07f0-4812-bef0-a33273a1e973" />
