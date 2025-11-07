@@ -50,3 +50,9 @@ Posteriormente, a análise foi reproduzida no Google Colab, utilizando Inteligê
 ## Atividade 7 Análise de Regressão Linear – Salário
 <img width="1407" height="957" alt="Captura de tela 2025-11-06 222616" src="https://github.com/user-attachments/assets/09ef2045-1b70-4cd4-8fb8-c82b94171779" />
 <img width="1602" height="943" alt="Captura de tela 2025-11-06 222559" src="https://github.com/user-attachments/assets/d4c98362-07f0-4812-bef0-a33273a1e973" />
+
+* Nesta atividade, repetimos o processo realizado na aula anterior para reforçar a prática dos conceitos de regressão linear. O objetivo foi aplicar novamente os procedimentos aprendidos, desta vez utilizando dados relacionados ao salário.
+
+* Inicialmente, foi construído um gráfico de dispersão no Excel, seguido da inserção de uma linha de tendência linear e da exibição da equação da reta, permitindo observar a relação entre as variáveis analisadas.
+
+* Em seguida, o processo foi reproduzido no Google Colab, com o apoio de Inteligência Artificial para gerar o código em Python. O arquivo IceCream.csv foi lido em um DataFrame do Pandas, e a partir dele foi criado um gráfico de dispersão da temperatura pela receita (revenue), além da construção de um modelo de regressão linear que relaciona a revenue em função da temperature.
