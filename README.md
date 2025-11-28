@@ -56,3 +56,7 @@ Posteriormente, a análise foi reproduzida no Google Colab, utilizando Inteligê
 * Inicialmente, foi construído um gráfico de dispersão no Excel, seguido da inserção de uma linha de tendência linear e da exibição da equação da reta, permitindo observar a relação entre as variáveis analisadas.
 
 * Em seguida, o processo foi reproduzido no Google Colab, com o apoio de Inteligência Artificial para gerar o código em Python. O arquivo IceCream.csv foi lido em um DataFrame do Pandas, e a partir dele foi criado um gráfico de dispersão da temperatura pela receita (revenue), além da construção de um modelo de regressão linear que relaciona a revenue em função da temperature.
+
+## Atividade 8 - Prova de Informatica 
+
+[Gravando 2025-11-27 223945.zip](https://github.com/user-attachments/files/23813135/Gravando.2025-11-27.223945.zip)
