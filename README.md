@@ -60,6 +60,6 @@ Posteriormente, a análise foi reproduzida no Google Colab, utilizando Inteligê
 ## Atividade 8 - Prova de Informatica 
 
 <img width="1912" height="787" alt="image" src="https://github.com/user-attachments/assets/2fd05c04-d921-4a3a-ae54-00bf54f7bf22" />
-[Gravando 2025-11-27 223945.zip](https://github.com/user-attachments/files/23813135/Gravando.2025-11-27.223945.zip)
+[Video prova de informatica.zip](https://github.com/user-attachments/files/23813135/Gravando.2025-11-27.223945.zip)
 
 * Atividade final: gravação de um vídeo explicando a resolução de um exercício da prova realizado em sala de aula.
